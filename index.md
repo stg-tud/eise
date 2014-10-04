@@ -1,6 +1,10 @@
 Einführung in Software Engineering
 ====
 
+Allgemeine Informationen
+=====
+ * [WS14-15-SEP-Flyer-Students.pdf](WS14-15-SEP-Flyer-Students.pdf)
+
 Wintersemester 14/15
 =====
 
