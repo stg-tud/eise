@@ -1,7 +1,14 @@
 Einführung in Software Engineering
 ====
 
-Slides (in German) for the lecture: "Introduction to Software Engineering"/Folien zur Vorlesung "Einführung in Software Engineering"
+Wintersemester 14/15
+=====
+
+Die Folien werden in Kürze bereitgestellt.
+
+Wintersemester 11/12
+=====
+Die folgenden Folien dienen lediglich als Referenz:
 
  * [EiSE-01-Organization.pdf](EiSE-01-Organization.pdf)
  * [EiSE-02-Object-oriented Thinking.pdf](EiSE-02-Object-oriented_Thinking.pdf)
