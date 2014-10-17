@@ -27,9 +27,14 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
 
 **Externe Vorträge**
 
- * 13.11.2014 - [In Planung] Kurzvortrag ___Software Engineering in der industriellen Praxis___
+
+ * 13.11.2014 - Herr M. Girschick; 14:15-15:00 Uhr (45 min.); ___Software Engineering in der industriellen Praxis___
  * 20.11.2014 - [In Planung] ___Requirements Engineering___
  * 22.01.2015 - Herr V. Jung (Accso); ___Beschleunigte Softwaretechnik___
+
+**Externe Veranstaltungen**
+
+ * 28.11.2014 - Exkursion zu Capgemini (Details zur Anmeldung etc. werden noch bekannt gegeben.)
 
 Wintersemester 11/12
 ===
