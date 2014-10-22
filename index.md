@@ -25,6 +25,8 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-01-Organization.pdf](WS14-EiSE-01-Organization.pdf)
  * [EiSE-02-Object-oriented Thinking.pdf](WS14-EiSE-02-Object-oriented_Thinking.pdf)
  * [EiSE-03-What is Software Engineering.pdf](WS14-EiSE-03-What\_is\_Software\_Engineering.pdf)
+ * [EiSE-04-Software Project Management.pdf](WS14-EiSE-04-Software\_Project\_Management.pdf)
+ * [EiSE-05-Requirements Egineering.pdf](WS14-EiSE-05-Requirements\_Egineering.pdf)
  
 **Externe Vorträge**
 
