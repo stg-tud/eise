@@ -19,7 +19,7 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
 
 **Folien**
 
- * Weitere Informationen (wird regelmäßig aktualisiert):
+ * Weitere Informationen (zuletzt am 23.10.14 aktualisiert):
 	* [Weitere Informationen.pdf](WS14-EiSE.pdf)
 	* [Weitere Informationen.ibook](WS14-EiSE.ibooks)	
  * [EiSE-01-Organization.pdf](WS14-EiSE-01-Organization.pdf)
