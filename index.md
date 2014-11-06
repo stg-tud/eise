@@ -27,6 +27,8 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-03-What is Software Engineering.pdf](WS14-EiSE-03-What\_is\_Software\_Engineering.pdf)
  * [EiSE-04-Software Project Management.pdf](WS14-EiSE-04-Software\_Project\_Management.pdf)
  * [EiSE-05-Requirements Egineering.pdf](WS14-EiSE-05-Requirements\_Egineering.pdf)
+ * [EiSE-06-Requirements Egineering-Use Cases.pdf](WS14-EiSE-06-Requirements\_Egineering-Use\_Cases.pdf)
+ * [EiSE-07-Domain Modeling.pdf](WS11-EiSE-07-Domain\_Modeling.pdf)
  
 **Externe Vorträge**
 
