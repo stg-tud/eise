@@ -10,8 +10,7 @@ Wintersemester 14/15
 
  * Verantworlich: [Dr. Michael Eichberg](http://www.stg.tu-darmstadt.de/staff/michael_eichberg/index.en.jsp)
  * Organisation/Übungen: 
-	* [Sven Amann](http://www.stg.tu-darmstadt.de/staff/sven_amann/index.en.jsp) und
-	* [Manuel Weiel](http://www.stg.tu-darmstadt.de/staff/manuel_weiel/manuel_weiel.en.jsp)
+	* [Sven Amann](http://www.stg.tu-darmstadt.de/staff/sven_amann/index.en.jsp)
 
 **Forum**
 
