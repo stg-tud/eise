@@ -9,8 +9,7 @@ Wintersemester 14/15
 ===
 
  * Verantworlich: [Dr. Michael Eichberg](http://www.stg.tu-darmstadt.de/staff/michael_eichberg/index.en.jsp)
- * Organisation/Übungen: 
-	* [Sven Amann](http://www.stg.tu-darmstadt.de/staff/sven_amann/index.en.jsp)
+ * Organisation/Übungen: [Sven Amann](http://www.stg.tu-darmstadt.de/staff/sven_amann/index.en.jsp)
 
 **Forum**
 
@@ -28,6 +27,8 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-05-Requirements Egineering.pdf](WS14-EiSE-05-Requirements\_Egineering.pdf)
  * [EiSE-06-Requirements Egineering-Use Cases.pdf](WS14-EiSE-06-Requirements\_Egineering-Use\_Cases.pdf)
  * [EiSE-07-Domain Modeling.pdf](WS11-EiSE-07-Domain\_Modeling.pdf)
+ * [EiSE-08-Software Quality.pdf](WS14-EiSE-08-Software\_Quality.pdf)
+ * [EiSE-09-Software Testing and Unit Tests.pdf](WS14-EiSE-09-Software\_Testing\_and\_Unit\_Tests.pdf)
  
 **Externe Vorträge**
 
