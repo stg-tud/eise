@@ -39,7 +39,7 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
 
 **Externe Veranstaltungen**
 
- * 28.11.2014 - Exkursion zu Capgemini (Details zur Anmeldung etc. werden noch bekannt gegeben.)
+ * 28.11.2014 - Exkursion zu Capgemini (<a href="http://tiny.cc/tud2014">Anmeldung hier</a>.)
 
 Wintersemester 11/12
 ===
