@@ -30,7 +30,8 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-06-Requirements Egineering-Use Cases.pdf](WS14-EiSE-06-Requirements\_Egineering-Use\_Cases.pdf)
  * [EiSE-07-Domain Modeling.pdf](WS11-EiSE-07-Domain\_Modeling.pdf)
  * [EiSE-08-Software Quality.pdf](WS14-EiSE-08-Software\_Quality.pdf)
- * [EiSE-09-Software Testing and Unit Tests.pdf](WS14-EiSE-09-Software\_Testing\_and\_Unit\_Tests.pdf)
+ * [EiSE-09-Software Testing and Unit Tests.pdf](WS14-EiSE-09-Software\_Testing\_and\_Unit\_Tests.pdf) (zuletzt am 4.12.14 aktualisiert)
+  * [EiSE-10-Building Software.pdf](WS14-EiSE-10-Building\_Software.pdf)
  * [EiSE-11-Interaction Diagrams-Sequence Diagrams.pdf](WS14-EiSE-11-Interaction\_Diagrams-Sequence\_Diagrams.pdf)
  * [EiSE-12-System Sequence Diagrams.pdf](WS14-EiSE-12-System\_Sequence\_Diagrams.pdf)
  
@@ -43,6 +44,18 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
 **Externe Veranstaltungen**
 
  * 28.11.2014 - Exkursion zu Capgemini
+ * 15.12.2014, 15:00 Uhr, Rheinstr. 75, Fraunhofer SIT, Raum "Hamburg" - Andreas Leitner (Google Zürich); ___Testing at Google/YouTube___  
+_Abstract_: This talk will introduce you to how we test at Google in general
+and YouTube in particular. Our basic principles are: testing is an
+engineering problem and people must be empowered in order to look for
+solutions. It will also tell you about some of the tools we built and
+use to do testing at scale.  
+_Bio_: Andreas Leitner received his PhD in Software Engineering from ETH Zurich
+in 2009. His field of research was test and debug automation. Since then
+he joined Google where he leads teams that create test and developer
+tools for YouTube.
+
+
 
 Wintersemester 11/12
 ===
