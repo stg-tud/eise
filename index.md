@@ -38,7 +38,7 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
 **Externe Vorträge**
 
  * 20.11.2014 - Herr O. Hakim; ___Requirements Engineering___
- * 11.12.2014 - Herr M. Girschick; 14:15-15:00 Uhr (45 min.); ___Software Engineering in der industriellen Praxis___
+ * 11.12.2014 - Herr M. Girschick; [___Software Engineering in der industriellen Praxis___ (Slides)](WS14_EiSE-XX-Capgemini.pdf)
  * 22.01.2015 - Herr V. Jung (Accso); ___Beschleunigte Softwaretechnik___
 
 **Externe Veranstaltungen**
