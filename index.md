@@ -35,6 +35,7 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-11-Interaction Diagrams-Sequence Diagrams.pdf](WS14-EiSE-11-Interaction\_Diagrams-Sequence\_Diagrams.pdf)
  * [EiSE-12-System Sequence Diagrams.pdf](WS14-EiSE-12-System\_Sequence\_Diagrams.pdf)
  * [EiSE-13-Software Process Models.pdf](WS14-EiSE-13-Software\_Process\_Models.pdf)
+  * [EiSE-14-OODesign-Responsibility and Coupling and Cohesion and Heuristics.pdf](WS14-EiSE-14-OO\_Design-Responsibility\_and\_Coupling\_and\_Cohesion\_and\_Heuristics.pdf)
  
 **Externe Vorträge**
 
