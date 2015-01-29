@@ -37,11 +37,13 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-13-Software Process Models.pdf](WS14-EiSE-13-Software\_Process\_Models.pdf)
  * [EiSE-14-OODesign-Responsibility and Coupling and Cohesion and Heuristics.pdf](WS14-EiSE-14-OO\_Design-Responsibility\_and\_Coupling\_and\_Cohesion\_and\_Heuristics.pdf)
  * [EiSE-15-Design Patterns-Introduction.pdf](WS14-EiSE-15-Design\_Patterns-Introduction.pdf)
+ * [EiSE-16-Strategy Design Pattern.pdf](WS14-EiSE-16-Strategy\_Design\_Pattern.pdf)
+ * [EiSE-17-Composite Design Pattern.pdf](WS14-EiSE-17-Composite\_Design\_Pattern)
  
 **Externe Vorträge**
 
  * 20.11.2014 - Herr O. Hakim; ___Requirements Engineering___
- * 11.12.2014 - Herr M. Girschick; [___Software Engineering in der industriellen Praxis___ (Slides)](WS14-EiSE-XX-Capgemini.pdf)
+ * 11.12.2014 - Herr M. Girschick; [___Software Engineering in der industriellen Praxis___](WS14-EiSE-XX-Capgemini.pdf)
  * 22.01.2015 - Herr V. Jung (Accso); [___Beschleunigte Softwaretechnik___](WS14-EISE-XX-Accso-BeST.pdf)
 
 **Externe Veranstaltungen**
