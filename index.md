@@ -39,6 +39,8 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-15-Design Patterns-Introduction.pdf](WS14-EiSE-15-Design\_Patterns-Introduction.pdf)
  * [EiSE-16-Strategy Design Pattern.pdf](WS14-EiSE-16-Strategy\_Design\_Pattern.pdf)
  * [EiSE-17-Composite Design Pattern.pdf](WS14-EiSE-17-Composite\_Design\_Pattern.pdf)
+ * [EiSE-18-Observer Design Pattern.pdf](WS14-EiSE-18-Observer\_Design\_Pattern.pdf)
+ * [EiSE-19-Factory Method and Abstract Factory Design Pattern.pdf](WS14-EiSE-19-Factory\_Method\_and\_Abstract\_Factory\_Design\_Pattern.pdf)
  
 **Externe Vorträge**
 
