@@ -1,21 +1,39 @@
-Einführung in Software Engineering
+(Einführung in) Software Engineering
 ===
 
-**Allgemeine Informationen**
 
- * [WS14-SEP-Flyer-Students.pdf](WS14-SEP-Flyer-Students.pdf)
 
-Wintersemester 14/15
+Wintersemester 15/16
 ===
 
- * Verantworlich: [Dr. Michael Eichberg](http://www.stg.tu-darmstadt.de/staff/michael_eichberg/index.en.jsp)
- * Organisation/Übungen: [Sven Amann](http://www.stg.tu-darmstadt.de/staff/sven_amann/index.en.jsp)
+ * Verantworlich:  
+ [Dr. Michael Eichberg](http://www.stg.tu-darmstadt.de/staff/michael_eichberg/index.en.jsp)
+ 
+ 
+ * Organisation/Übungen:  
+     * **[Leonid Glanz](http://www.stg.tu-darmstadt.de/staff/leonid_glanz/leonid_glanz.en.jsp)**
+     * [Sven Amann](http://www.stg.tu-darmstadt.de/staff/sven_amann/index.en.jsp)
 
 
 **Forum**
 
-Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachschaft.informatik.tu-darmstadt.de/forum//viewforum.php?f=198&sid=93e51645a96105414eeed2f1bfcbdb2d)
+Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fachschaft.informatik.tu-darmstadt.de/forum//viewforum.php?f=198&sid=93e51645a96105414eeed2f1bfcbdb2d)
 
+
+**Folien**
+
+ * [SE-01-Organization.pdf](WS15-SE-01-Organization.pdf)
+
+
+ 
+**Externe Vorträge**
+
+ * 17.12.2015 - Herr O. Hakim; ___Requirements Engineering___
+
+
+
+Wintersemester 14/15
+===
 
 **Folien**
 
@@ -26,8 +44,8 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-02-Object-oriented Thinking.pdf](WS14-EiSE-02-Object-oriented_Thinking.pdf)
  * [EiSE-03-What is Software Engineering.pdf](WS14-EiSE-03-What\_is\_Software\_Engineering.pdf)
  * [EiSE-04-Software Project Management.pdf](WS14-EiSE-04-Software\_Project\_Management.pdf)
- * [EiSE-05-Requirements Egineering.pdf](WS14-EiSE-05-Requirements\_Egineering.pdf)
- * [EiSE-06-Requirements Egineering-Use Cases.pdf](WS14-EiSE-06-Requirements\_Egineering-Use\_Cases.pdf)
+ * [EiSE-05-Requirements Engineering.pdf](WS14-EiSE-05-Requirements\_Engineering.pdf)
+ * [EiSE-06-Requirements Engineering-Use Cases.pdf](WS14-EiSE-06-Requirements\_Engineering-Use\_Cases.pdf)
  * [EiSE-07-Domain Modeling.pdf](WS11-EiSE-07-Domain\_Modeling.pdf)
  * [EiSE-08-Software Quality.pdf](WS14-EiSE-08-Software\_Quality.pdf)
  * [EiSE-09-Software Testing and Unit Tests.pdf](WS14-EiSE-09-Software\_Testing\_and\_Unit\_Tests.pdf) (zuletzt am 4.12.14 aktualisiert)
@@ -42,26 +60,6 @@ Fachschaft der Forum zu [Einführung in Software Engineering](https://www.fachsc
  * [EiSE-18-Observer Design Pattern.pdf](WS14-EiSE-18-Observer\_Design\_Pattern.pdf)
  * [EiSE-19-Factory Method and Abstract Factory Design Pattern.pdf](WS14-EiSE-19-Factory\_Method\_and\_Abstract\_Factory\_Design\_Pattern.pdf)
  
-**Externe Vorträge**
-
- * 20.11.2014 - Herr O. Hakim; ___Requirements Engineering___
- * 11.12.2014 - Herr M. Girschick; [___Software Engineering in der industriellen Praxis___](WS14-EiSE-XX-Capgemini.pdf)
- * 22.01.2015 - Herr V. Jung (Accso); [___Beschleunigte Softwaretechnik___](WS14-EISE-XX-Accso-BeST.pdf)
-
-**Externe Veranstaltungen**
-
- * 28.11.2014 - Exkursion zu Capgemini
- * 15.12.2014, 15:00 Uhr, Rheinstr. 75, Fraunhofer SIT, Raum "Hamburg" - Andreas Leitner (Google Zürich); ___Testing at Google/YouTube___  
-_Abstract_: This talk will introduce you to how we test at Google in general
-and YouTube in particular. Our basic principles are: testing is an
-engineering problem and people must be empowered in order to look for
-solutions. It will also tell you about some of the tools we built and
-use to do testing at scale.  
-_Bio_: Andreas Leitner received his PhD in Software Engineering from ETH Zurich
-in 2009. His field of research was test and debug automation. Since then
-he joined Google where he leads teams that create test and developer
-tools for YouTube.
-
 
 
 Wintersemester 11/12
@@ -72,8 +70,8 @@ Die folgenden Folien dienen lediglich als Referenz:
  * [EiSE-02-Object-oriented Thinking.pdf](WS11-EiSE-02-Object-oriented_Thinking.pdf)
  * [EiSE-03-What is Software Engineering.pdf](WS11-EiSE-03-What_is_Software_Engineering.pdf)
  * [EiSE-04-Software Project Management.pdf](WS11-EiSE-04-Software_Project_Management.pdf)
- * [EiSE-05-Requirements Egineering.pdf](WS11-EiSE-05-Requirements_Egineering.pdf)
- * [EiSE-06-Requirements Egineering-Use Cases.pdf](WS11-EiSE-06-Requirements_Egineering-Use_Cases.pdf)
+ * [EiSE-05-Requirements Engineering.pdf](WS11-EiSE-05-Requirements_Engineering.pdf)
+ * [EiSE-06-Requirements Engineering-Use Cases.pdf](WS11-EiSE-06-Requirements_Engineering-Use_Cases.pdf)
  * [EiSE-07-Domain Modeling.pdf](WS11-EiSE-07-Domain_Modeling.pdf)
  * [EiSE-08-Software Quality.pdf](WS11-EiSE-08-Software_Quality.pdf)
  * [EiSE-09-Software Testing and Unit Tests.pdf](WS11-EiSE-09-Software_Testing_and_Unit_Tests.pdf)

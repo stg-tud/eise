@@ -1,4 +1,6 @@
-eise
+SE
 ====
 
-Slides (in German) for the lecture: "Introduction to Software Engineering"/Folien zur Vorlesung "Einführung in Software Engineering"
+**(Previously known as EiSE - Einführung in Software Engineering)**
+
+Slides of the lecture: "Software Engineering"
