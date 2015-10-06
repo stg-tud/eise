@@ -23,7 +23,7 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
 **Folien**
 
  * [SE-01-Organization.pdf](WS15-SE-01-Organization.pdf)
-
+ * [SE-02-Object-oriented\_Thinking.pdf](WS15-SE-02-Object-oriented\_Thinking.pdf)
 
  
 **Externe Vorträge**
