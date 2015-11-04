@@ -30,6 +30,7 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  
 **Externe Vorträge**
 
+ * 26.11.2015 - Herr S. Merten; __Agile Project - A Reality Check__
  * 17.12.2015 - Herr O. Hakim; ___Requirements Engineering___
 
 
