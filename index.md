@@ -27,8 +27,8 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  * [SE-03-Software Project Management](WS15-SE-03-Software\_Project\_Management.pdf)
  * [SE-04-Software Process Models](WS15-SE-04-Software\_Process\_Models.pdf)
  * [SE-05-Requirements Engineering](WS15-SE-05-Requirements\_Engineering.pdf)
- * [SE-06-Requirements Engineering - Use Cases](WS15-SE-06-Requirements\_Engineering-Use\_Cases)
- * [SE-07-Domain Modeling](WS15-SE-07-Domain\_Modeling)
+ * [SE-06-Requirements Engineering - Use Cases](WS15-SE-06-Requirements\_Engineering-Use\_Cases.pdf)
+ * [SE-07-Domain Modeling](WS15-SE-07-Domain\_Modeling.pdf)
  
 **Externe Vorträge (Teil von SE)**
 
