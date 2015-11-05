@@ -30,12 +30,16 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  * [SE-06-Requirements Engineering - Use Cases](WS15-SE-06-Requirements\_Engineering-Use\_Cases)
  * [SE-07-Domain Modeling](WS15-SE-07-Domain\_Modeling)
  
-**Externe Vorträge**
+**Externe Vorträge (Teil von SE)**
 
  * 26.11.2015 - Herr S. Merten; __Agile Project - A Reality Check__
  * 17.12.2015 - Herr O. Hakim; ___Requirements Engineering___
 
+**Weitere Externe Vorträge (mit direktem Bezug zu SE)**
 
+ * _Dr.-Ing. Christof Leng_ ist ein Site Reliability Engineer in Google's europaeischen Hauptquartier in Dublin und Mitglied des Mesa-Teams. Er hat an der TU Darmstadt studiert und ueber Replikation in Peer-to-Peer-System promoviert. Nach einem Postdoc-Aufenthalt am International Computer Science Institute und im Big Data Lab der University of California Berkeley ist er seit 2014 bei Google. Christof Leng ist Vizepraesident der Gesellschaft fuer Informatik und war Bundesvorsitzender der Piratenpartei.
+     * 13.11.2015, 11:30 in S101/A02 (bzw. S101/A03) - Herr Dr. C. Leng; __Site Reliability Engineering__
+     * 13.11.2015, 12:30 in S101/A02 (bzw. S101/A03) - Herr Dr. C. Leng; __Bring Questions, Build Answers - Your Career at Google__
 
 Wintersemester 14/15
 ===
