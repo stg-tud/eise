@@ -29,6 +29,7 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  * [SE-05-Requirements Engineering](WS15-SE-05-Requirements\_Engineering.pdf)
  * [SE-06-Requirements Engineering - Use Cases](WS15-SE-06-Requirements\_Engineering-Use\_Cases.pdf)
  * [SE-07-Domain Modeling](WS15-SE-07-Domain\_Modeling.pdf)
+ * [SE-08-Software Quality](WS15-SE-08-Software\_Quality.pdf)
  
 **Externe Vorträge (Teil von SE)**
 
