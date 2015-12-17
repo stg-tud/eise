@@ -39,6 +39,11 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
 
  * 26.11.2015 - Herr S. Merten; [__Agile Project - A Reality Check__](AgileRealityCheck.pdf)
  * 17.12.2015 - Herr O. Hakim; ___Requirements Engineering___
+ * 14.1.2016 - Herr F. Sennhenn; ___DB Netz AG - Auf dem Weg zur digitalen Infrastruktur___  
+ **Inhalt**:  
+ Nach einem kurzen Überblick über die DB Netz AG und das Leistungsspektrum das selbige erbringt, wird Herr Sennhenn die Bedeutung der Digitalisierung für DB Netz herausstellen. Anhand konkreter Beispiele wird er dann aufzeigen welche konkreten Schritte und Initiativen die DB Netz auf dem Weg zur digitalen Infrastruktur aktuell vorantreibt. Herr Sennhenn wird dabei auch auf die speziellen Anforderungen an die Softwareentwicklung sowie an Safety/Security eingehen.  
+ **Vita**:  
+ Frank Sennhenn (51) studierte Betriebswirtschaftslehre an der Universität Erlangen-Nürnberg und begann seinen beruflichen Werdegang bei der AGIV Aktiengesellschaft für Industrie und Verkehrswesen. Zwischen 1992 und 2000 war Sennhenn für die DEG-Verkehrs-GmbH als Bereichsleiter tätig. 2000 wechselte er zur DB Regio AG als Leiter der Organisationseinheit Geschäftsentwicklung und Projektleiter Sanierung Regio. 2003 wurde er zum Vorstand Produktion der DB Regio AG berufen. Von Juni 2009 bis April 2013 war er Vorsitzender des Vorstandes der DB Regio AG. Seit Mai 2013 ist er Vorstandsvorsitzender der DB Netz AG.
 
 **Weitere Externe Vorträge (mit direktem Bezug zu SE)**
 
