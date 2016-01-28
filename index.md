@@ -35,9 +35,10 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  * [SE-11-Interaction Diagrams - Sequence Diagrams](WS15-SE-11-Interaction_Diagrams-Sequence_Diagrams.pdf)
  * [SE-12-System Sequence Diagrams](WS15-SE-12-System_Sequence_Diagrams.pdf)
  * [SE-13-OO Design-Responsibility and Coupling and Cohesion and Heuristics](WS15-SE-13-OO_Design-Responsibility_and_Coupling_and_Cohesion_and_Heuristics.pdf)
+ * [SE-14-Design Patterns - Introduction](WS15-SE-14-Design_Patterns-Introduction.pdf)
+ * [SE-15-Strategy Design Pattern](WS15-SE-15-Strategy_Design_Pattern.pdf)
+ * [SE-16-Composite Design Pattern]( WS15-SE-16-Composite_Design_Pattern.pdf)
 
- 
- 
 **Externe Vorträge (Teil von SE)**
 
  * 26.11.2015 - Herr S. Merten; [__Agile Project - A Reality Check__](AgileRealityCheck.pdf)
