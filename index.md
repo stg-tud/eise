@@ -37,7 +37,9 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  * [SE-13-OO Design-Responsibility and Coupling and Cohesion and Heuristics](WS15-SE-13-OO_Design-Responsibility_and_Coupling_and_Cohesion_and_Heuristics.pdf)
  * [SE-14-Design Patterns - Introduction](WS15-SE-14-Design_Patterns-Introduction.pdf)
  * [SE-15-Strategy Design Pattern](WS15-SE-15-Strategy_Design_Pattern.pdf)
- * [SE-16-Composite Design Pattern]( WS15-SE-16-Composite_Design_Pattern.pdf)
+ * [SE-16-Composite Design Pattern](WS15-SE-16-Composite_Design_Pattern.pdf)
+ * [SE-17-Observer Design Pattern](WS15-SE-17-Observer_Design_Pattern.pdf)
+ * [SE-18-Factory Method and Abstract Factory Design Pattern](WS15-SE-18-Factory_Method_and_Abstract_Factory_Design_Pattern.pdf)  
 
 **Externe Vorträge (Teil von SE)**
 
