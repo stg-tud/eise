@@ -40,7 +40,8 @@ Fachschaft der Forum zu [(Einführung in) Software Engineering](https://www.fach
  * [SE-16-Composite Design Pattern](WS15-SE-16-Composite_Design_Pattern.pdf)
  * [SE-17-Observer Design Pattern](WS15-SE-17-Observer_Design_Pattern.pdf)
  * [SE-18-Factory Method and Abstract Factory Design Pattern](WS15-SE-18-Factory_Method_and_Abstract_Factory_Design_Pattern.pdf)  
-
+ * [SE-19-Observer Design Pattern in AspectJ](WS15-SE-19-Observer_Design_Pattern_with_AspectJ.pdf)
+ 
 **Externe Vorträge (Teil von SE)**
 
  * 26.11.2015 - Herr S. Merten; [__Agile Project - A Reality Check__](AgileRealityCheck.pdf)
