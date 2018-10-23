@@ -14,7 +14,7 @@ Wintersemester 18/19
 
 **Weiteres**
 
- * [WS18-CogniCryptHiwi-Wanted](WS18-CogniCryptHiwi-Wanted)
+ * [WS18-CogniCryptHiwi-Wanted.pdf](WS18-CogniCryptHiwi-Wanted.pdf)
 
 **Forum**
 
