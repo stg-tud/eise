@@ -12,6 +12,10 @@ Wintersemester 18/19
  * [SE-01-Organization.pdf](WS18-SE-01-Organization.pdf)
  * [SE-02-What is Software Engineering](WS18-SE-02-What_is_Software_Engineering.pdf)
 
+**Weiteres**
+
+ * [WS18-CogniCryptHiwi-Wanted](WS18-CogniCryptHiwi-Wanted)
+
 **Forum**
 
 Forum der Fachschaft der Informatik zu [Software Engineering](https://www.fachschaft.informatik.tu-darmstadt.de/forum//viewforum.php?f=198&sid=93e51645a96105414eeed2f1bfcbdb2d)
