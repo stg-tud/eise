@@ -9,8 +9,10 @@ Wintersemester 18/19
 
 **Folien**
 
- * [SE-01-Organization.pdf](WS18-SE-01-Organization.pdf)
+ * [SE-01-Organization](WS18-SE-01-Organization.pdf)
  * [SE-02-What is Software Engineering](WS18-SE-02-What_is_Software_Engineering.pdf)
+ * [SE-03-Software Project Management](WS18-SE-03-Software_Project_Management.pdf)
+ * [SE-04-Software Process Models](WS18-SE-04-Software_Process_Models.pdf)
 
 **Weiteres**
 
