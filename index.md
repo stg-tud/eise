@@ -16,8 +16,8 @@ Wintersemester 18/19
 
 **Weiteres**
 
- * [WS18-CogniCryptHiwi-Wanted.pdf](WS18-CogniCryptHiwi-Wanted.pdf)
- * [CASTrm2019-flyer_cfp_de.pdf](CASTrm2019-flyer_cfp_de.pdf)
+ * [WS18-CogniCryptHiwi-Wanted](WS18-weiteres-CogniCryptHiwi-Wanted.pdf)
+ * [WS18-CASTrm2019.pdf](WS18-weiteres-CASTrm2019-flyer.pdf)
 
 **Forum**
 
