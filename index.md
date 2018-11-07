@@ -4,21 +4,22 @@ Software Engineering
 Wintersemester 18/19
 ===
 
-* Verantworlich:
+**Verantworlich**
 [Dr. Michael Eichberg](http://www.stg.tu-darmstadt.de/staff/michael_eichberg/index.en.jsp)
 
 **Folien**
 
- * [SE-01-Organization](WS18-SE-01-Organization.pdf)
- * [SE-02-What is Software Engineering](WS18-SE-02-What_is_Software_Engineering.pdf)
- * [SE-03-Software Project Management](WS18-SE-03-Software_Project_Management.pdf)
- * [SE-04-Software Process Models](WS18-SE-04-Software_Process_Models.pdf)
- * [SE-05-Requirements Engineering](WS18-SE-05-Requirements_Engineering.pdf)
+- [SE-01-Organization](WS18-SE-01-Organization.pdf)
+- [SE-02-What is Software Engineering](WS18-SE-02-What_is_Software_Engineering.pdf)
+- [SE-03-Software Project Management](WS18-SE-03-Software_Project_Management.pdf)
+- [SE-04-Software Process Models](WS18-SE-04-Software_Process_Models.pdf)
+- [SE-05-Requirements Engineering](WS18-SE-05-Requirements_Engineering.pdf)
 
 **Weiteres**
 
- * [WS18-CogniCryptHiwi-Wanted](WS18-weiteres-CogniCryptHiwi-Wanted.pdf)
- * [WS18-CASTrm2019.pdf](WS18-weiteres-CASTrm2019-flyer.pdf)
+- [WS18-weiteres-SpaceTalks.pdf](WS18-weiteres-SpaceTalks.pdf)
+- [WS18-CogniCryptHiwi-Wanted](WS18-weiteres-CogniCryptHiwi-Wanted.pdf)
+- [WS18-CASTrm2019.pdf](WS18-weiteres-CASTrm2019-flyer.pdf)
 
 **Forum**
 
