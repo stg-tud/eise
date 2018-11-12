@@ -17,6 +17,7 @@ Wintersemester 18/19
 
 **Weiteres**
 
+ * [WS18-weiteres-Capgemini.pdf](WS18-weiteres-Capgemini.pdf)
  * [WS18-weiteres-SpaceTalks.pdf](WS18-weiteres-SpaceTalks.pdf)
  * [WS18-CogniCryptHiwi-Wanted](WS18-weiteres-CogniCryptHiwi-Wanted.pdf)
  * [WS18-CASTrm2019.pdf](WS18-weiteres-CASTrm2019-flyer.pdf)
