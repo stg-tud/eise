@@ -14,6 +14,9 @@ Wintersemester 18/19
  * [SE-03-Software Project Management](WS18-SE-03-Software_Project_Management.pdf)
  * [SE-04-Software Process Models](WS18-SE-04-Software_Process_Models.pdf)
  * [SE-05-Requirements Engineering](WS18-SE-05-Requirements_Engineering.pdf)
+ * [SE-06-Requirements Engineering - Use Cases](WS18-SE-06-Requirements_Engineering-Use_Cases.pdf)
+ * [SE-07-Modeling - Domain Model](WS18-SE-07-Modeling-static_Part.pdf)
+ * [SE-08-Modeling - Interactions](WS18-SE-08-Modeling-dynamic_Part.pdf)
 
 **Weiteres**
 
