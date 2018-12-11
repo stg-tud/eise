@@ -21,7 +21,8 @@ Wintersemester 18/19
 
 **Weiteres**
 
- * [WS18-CogniCryptHiwi-II-Wanted](WS18-weiteres-CogniCryptHiwi-II-Wanted.pdf)
+ * [WS18-weiteres-msg-Hackathon-2018-12-10.pdf](WS18-weiteres-msg-Hackathon-2018-12-10.pdf)
+ * [WS18-CogniCryptHiwi-II-Wanted.pdf](WS18-weiteres-CogniCryptHiwi-II-Wanted.pdf)
  * [WS18-weiteres-Agiles_Requirements-Engineering.msg.pdf](WS18-weiteres-Agiles_Requirements-Engineering.msg.pdf)
  * [WS18-weiteres-Iteratec-codingDojoDarmstadt.pdf](WS18-weiteres-Iteratec-codingDojoDarmstadt.pdf)
  * [WS18-weiteres-Capgemini.pdf](WS18-weiteres-Capgemini.pdf)
