@@ -17,7 +17,8 @@ Wintersemester 18/19
  * [SE-06-Requirements Engineering - Use Cases](WS18-SE-06-Requirements_Engineering-Use_Cases.pdf)
  * [SE-07-Modeling - Domain Model](WS18-SE-07-Modeling-static_Part.pdf)
  * [SE-08-Modeling - Interactions](WS18-SE-08-Modeling-dynamic_Part.pdf)
- * [Se-09-OODesign-CouplingAndCohesion](WS18-SE-09-OO_Design-Responsibility_and_Coupling_and_Cohesion_and_Heuristics.pdf)
+ * [SE-10-Software Quality](WS18-SE-10-Software_Quality.pdf)
+ * [SE-11-Building Software](WS18-SE-11-Building_Software.pdf)
 
 **Weiteres**
 
