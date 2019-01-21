@@ -20,6 +20,7 @@ Wintersemester 18/19
  * [SE-09-OO Design - Responsibility and Coupling and Cohesion and Heuristics](WS18-SE-09-OO_Design-Responsibility_and_Coupling_and_Cohesion_and_Heuristics.pdf)
  * [SE-10-Software Quality](WS18-SE-10-Software_Quality.pdf)
  * [SE-11-Building Software](WS18-SE-11-Building_Software.pdf)
+ * [SE-12-Software Testing and Unit Tests](WS18-SE-12-Software_Testing_and_Unit_Tests.pdf)
 
 **Weiteres**
 
