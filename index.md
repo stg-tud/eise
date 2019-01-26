@@ -21,6 +21,9 @@ Wintersemester 18/19
  * [SE-10-Software Quality](WS18-SE-10-Software_Quality.pdf)
  * [SE-11-Building Software](WS18-SE-11-Building_Software.pdf)
  * [SE-12-Software Testing and Unit Tests](WS18-SE-12-Software_Testing_and_Unit_Tests.pdf)
+ * [SE-13-Design_Patterns-Introduction](WS18-SE-13-Design_Patterns-Introduction.pdf)
+ * [SE-14-Strategy_Design_Pattern](WS18-SE-14-Strategy_Design_Pattern.pdf)
+ * [SE-15-Composite_Design_Pattern](WS18-SE-15-Composite_Design_Pattern.pdf)
 
 **Weiteres**
 
