@@ -21,9 +21,13 @@ Wintersemester 18/19
  * [SE-10-Software Quality](WS18-SE-10-Software_Quality.pdf)
  * [SE-11-Building Software](WS18-SE-11-Building_Software.pdf)
  * [SE-12-Software Testing and Unit Tests](WS18-SE-12-Software_Testing_and_Unit_Tests.pdf)
- * [SE-13-Design_Patterns-Introduction](WS18-SE-13-Design_Patterns-Introduction.pdf)
- * [SE-14-Strategy_Design_Pattern](WS18-SE-14-Strategy_Design_Pattern.pdf)
- * [SE-15-Composite_Design_Pattern](WS18-SE-15-Composite_Design_Pattern.pdf)
+ * [SE-13-Design Patterns - Introduction](WS18-SE-13-Design_Patterns-Introduction.pdf)
+ * [SE-14-Strategy Design Pattern](WS18-SE-14-Strategy_Design_Pattern.pdf)
+ * [SE-15-Composite Design Pattern](WS18-SE-15-Composite_Design_Pattern.pdf)
+ * [SE-16-Observer Design Pattern](WS18-SE-16-Observer_Design_Pattern.pdf)
+ * [SE-17-Factory Method and Abstract Factory Design Pattern](WS18-SE-17-Factory_Method_and_Abstract_Factory_Design_Pattern.pdf)
+ * [SE-18-Enforcing Singularity - Singleton and Monostate Pattern](WS18-SE-18-Enforcing_Singularity-Singleton_and_Monostate_Pattern.pdf)
+ * [SE-19-Observer Design Pattern with AspectJ](WS18-SE-19-Observer_Design_Pattern_with_AspectJ.pdf)
 
 **Weiteres**
 
