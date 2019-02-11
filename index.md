@@ -31,7 +31,8 @@ Wintersemester 18/19
 
 **Weiteres**
 
- * [WS19-weiteres-SoftwareKartographie.pdf](WS19-weiteres-SoftwareKartographie.pdf)
+ * [WS18-weiteres-Projekmanagement-msg.pdf](WS18-weiteres-Projekmanagement-msg.pdf)
+ * [WS18-weiteres-SoftwareKartographie.pdf](WS18-weiteres-SoftwareKartographie.pdf)
  * [WS18-weiteres-msg-Hackathon-2018-12-10.pdf](WS18-weiteres-msg-Hackathon-2018-12-10.pdf)
  * [WS18-CogniCryptHiwi-II-Wanted.pdf](WS18-weiteres-CogniCryptHiwi-II-Wanted.pdf)
  * [WS18-weiteres-Agiles_Requirements-Engineering.msg.pdf](WS18-weiteres-Agiles_Requirements-Engineering.msg.pdf)
